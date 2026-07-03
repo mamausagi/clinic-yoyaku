@@ -1,7 +1,7 @@
 {
-  "name": "診療予約管理",
-  "short_name": "診療予約",
-  "description": "診療予約の一覧・空き状況を管理するアプリ",
+  "name": "丸岡医院 診療予約管理",
+  "short_name": "丸岡医院予約",
+  "description": "丸岡医院の診療予約・空き状況・担当医別の枠を管理するアプリ",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
