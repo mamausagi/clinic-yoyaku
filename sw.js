@@ -1,6 +1,6 @@
 // 診療予約管理 PWA Service Worker
 // アプリ更新時は CACHE のバージョン名を上げる（v1 → v2 ...）
-const CACHE = 'shinryo-yoyaku-v24';
+const CACHE = 'shinryo-yoyaku-v25';
 const CORE = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
