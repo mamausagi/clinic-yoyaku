@@ -7,3 +7,4 @@ index.html.bak_*
 
 # 患者データ（PII・絶対にpushしない）
 _取込データ/
+_guide/
